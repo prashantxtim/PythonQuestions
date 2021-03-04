@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/week2lol.iml" filepath="$PROJECT_DIR$/.idea/week2lol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PythonQuestions.iml" filepath="$PROJECT_DIR$/.idea/PythonQuestions.iml" />
     </modules>
   </component>
 </project>
