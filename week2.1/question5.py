@@ -15,4 +15,4 @@ print(f"The minimum number of desks required in class b is {min_desk_in_class_b}
 
 stds_in_class_c = 22
 min_desk_in_class_c = (stds_in_class_c//2)
-print(f"The minimum number of desks required in class c is {min_desk_in_class_c}.")
+print(f"The minimum number of desks required in class c is {min_desk_in_class_c}."
